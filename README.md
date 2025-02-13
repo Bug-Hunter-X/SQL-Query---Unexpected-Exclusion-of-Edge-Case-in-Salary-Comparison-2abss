@@ -1,0 +1,1 @@
+This repository contains examples of a common SQL error and its solution. The `bug.sql` file shows an SQL query that unintentionally excludes employees with salaries exactly matching the threshold. The `bugSolution.sql` file presents the corrected query.
